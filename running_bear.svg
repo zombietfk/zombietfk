@@ -30,9 +30,9 @@
             to   { transform: translate(calc(100vw + 128px), -50%); }
           }
         </style>
-      </div>
       <div class="running-across-screen">
         <div class="bear" />
       </div>
+    </div>
   </foreignObject>
 </svg>
