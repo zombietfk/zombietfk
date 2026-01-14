@@ -13,7 +13,7 @@
           .running-across-screen .bear {
             width: 128px;
             height: 128px;
-            background-image: url("bear_running.png");
+            background-image: url("running_bear.png");
             background-repeat: no-repeat;
             background-position: 0 0;
             background-size: 512px 128px;
