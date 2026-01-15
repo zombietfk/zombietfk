@@ -3,18 +3,40 @@
   <img src="running_bear.svg" width="100%" height="100%" alt="Click to see the source">
 </picture>
 
-# ZOMBIE+TFK
+# ZOMBIE⚙️TFK  
 
+**British/American web/game/embedded/whatsit/gizmos/whatever developer**
+I *mostly* make games in my spare time and have been doing this whole programming thing for so long now, I sometimes even know what I’m doing... *sometimes*  
 
-I am a British/American web/game/embedded/whatsit/gizo/whatever developer (Not strictly in that order) who *mainly* makes games in my spare time
+## Professional Experience
 
-I've been doing this for a long time, and my hope is in another decade of doing this to maybe get an idea of what exactly I'm doing! ;)
+### 🛠️ Backend (6+ yrs)
+- **Java** (Spring / Spring Boot)  
+- **PHP** (Laravel)  
+- Node.js (Primarilly express.js for graphql and rest APIs)
 
-- 6+ years professional web dev experience with a focus on backend - primarilly with Java Spring(+Spring Boot), PHP Laravel, and NodeJS
-- 4+ years professional web dev experience with a focus on frontend - Including with React, jQuery, Semantic UI, Bootstrap... Honestly way too many to track!
-- 2 years native app development experience - particularly for Android but also including multiplatform development using React-Native
-- Plenty of amatuer experience with C/C++, especially using SDL2, but lots of other tech too! As well as game development experience with Unity using C# and most recently with Godot using GDSCript!
+### 🎨 Frontend (4+ yrs)
+- **React**
+- jQuery
+- Semantic UI
+- Bootstrap
+- This list could go on for a very long time
 
-Currently my biggest focus is with using Godot to make fun games in my spare time. Check out my projects and I hope you all find them amusing if not entertaining or even perhaps enlightening!
+### 📱 Mobile Native (2 yrs)
+- **Android**
+- **React Native** (multiplatform chaos + ship-it energy)
 
-Thank you for visiting my profile <3 Please follow me or fork / star my repos and reach out any time!
+### 🥳 Unprofessional Experience
+- C / C++ (Especially using SDL2)
+- Unity (C#)
+- Godot (GDScript)
+
+## Currently Working On
+Right now I mostly have being playing with **Godot** in my spare time while I'm caring for my wife outside of the computer
+
+**Check out my repos** — I hope you find them **amusing** if not **entertaining**, or perhaps in rare circumstances maybe even **mildly enlightening**!
+
+## 🤝 Say hi!
+If you want to collaborate, chat about games, or just exchange cursed tech knowledge **follow / star / fork** and feel free to reach out anytime 😃
+
+Thanks for visiting my profile 💖
