@@ -38,7 +38,7 @@
         /* Move from off-left to off-right, based on container width */
         @keyframes run {
           from { transform: translateX(0); }
-          to   { transform: translateX(calc(100% + 128px)); }
+          to   { transform: translateX(calc(800px + 128px)); }
           /* 100% = stage width, +256px ensures fully off-screen right
              (128px sprite width + a little cushion) */
         }
