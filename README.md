@@ -24,7 +24,7 @@ I *mostly* make games in my spare time and have been doing this whole programmin
 
 ### 📱 Mobile Native (2 yrs)
 - **Android**
-- **React Native** (multiplatform chaos + ship-it energy)
+- **React Native**
 
 ### 🥳 Unprofessional Experience
 - C / C++ (Especially using SDL2)
