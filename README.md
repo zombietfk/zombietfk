@@ -11,9 +11,9 @@ I *mostly* make games in my spare time and have been doing this whole programmin
 ## Professional Experience
 
 ### 🛠️ Backend (6+ yrs)
-- **Java** (Spring / Spring Boot)  
-- **PHP** (Laravel)  
-- Node.js (Primarilly express.js for graphql and rest APIs)
+- **Java** - Spring / Spring Boot  
+- **PHP** - Laravel
+- Node.js - Express + Apollo
 
 ### 🎨 Frontend (4+ yrs)
 - **React**
