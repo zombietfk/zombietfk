@@ -6,7 +6,7 @@
 # ZOMBIE⁜TFK  
 
 **British / American web / game / embedded / whatsit / gizmos / whatever developer**
-I *mostly* make games in my spare time and have been doing this whole programming thing for so long now, I sometimes even know what I’m doing... *sometimes*  
+I *mostly* make games in my spare time and have been doing this whole programming thing for so long now, sometimes I even know what I’m doing...
 
 ## Professional Experience
 
