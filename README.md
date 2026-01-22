@@ -8,7 +8,7 @@
 **British / American web / game / embedded / whatsit / gizmos / whatever developer**
 I *mostly* make games in my spare time and have been doing this whole programming thing for so long now, sometimes I even know what I’m doing...
 
-## Professional Experience
+## Experience
 
 ### 🛠️ Backend (6+ yrs)
 - **Java** - Spring / Spring Boot  
